@@ -1,2 +1,2 @@
 # parrot
-Speak my software patterns
+Repeat after me
